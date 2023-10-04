@@ -1,0 +1,36 @@
+['input_pdfs/5131166196.pdf', 'input_pdfs/5129169272.pdf', 'input_pdfs/5131313892.pdf', 'input_pdfs/5123715067.pdf', 'input_pdfs/5109712053.pdf']
+Extracting data for input_pdfs/5131166196.pdf
+=============
+order_id: 5131166196
+ordered_date_time: 25th Aug 2023 at 10:33 PM
+ordered_items_list: ['Odisha Special Economic Egg Curry Thali [Serves 1] Choice Of Egg Curry Egg (2 pcs) Alu Curry 300gm 1 x 139 ₹139.00', 'Rice Kheer [100 ml] 1 x 49 ₹49.00']
+total_amount: ₹112.80
+promo: -₹75.20
+Extracting data for input_pdfs/5129169272.pdf
+=============
+order_id: 5129169272
+ordered_date_time: 25th Aug 2023 at 11:08 PM
+ordered_items_list: ['Odisha Special Economic Chicken Curry Thali [Serves 1] Choice Of Chicken Curry Kukuda [4 Pieces] with Aloo Kosa 1 x 199 ₹199.00']
+total_amount: ₹119.40
+promo: -₹79.60
+Extracting data for input_pdfs/5131313892.pdf
+=============
+order_id: 5131313892
+ordered_date_time: 25th Aug 2023 at 10:34 PM
+ordered_items_list: ['Potala Korma [3 Pieces] 1 x 149 ₹149', 'Ghanta Tarkari 1 x 99 ₹99', 'Tawa Roti Quantity 4 Roti 1 x 80 ₹80']
+total_amount: ₹248
+promo: -₹80
+Extracting data for input_pdfs/5123715067.pdf
+=============
+order_id: 5123715067
+ordered_date_time: 25th Aug 2023 at 10:38 PM
+ordered_items_list: ['Chole Bhature Combo 1 x 149 ₹149', 'Veg Hakka Garlic Noodles Quantity Regular [500 grams] 1 x 99 ₹99']
+total_amount: ₹248
+promo: 0
+Extracting data for input_pdfs/5109712053.pdf
+=============
+order_id: 5109712053
+ordered_date_time: 25th Aug 2023 at 10:48 PM
+ordered_items_list: ['Kukuda Aloo Jhola Customize Chicken [4 Pieces]+Aloo [2 Pieces] 1 x 129 ₹129', 'Chicken Chilli [450 grams, Serves 1] 1 x 229 ₹229']
+total_amount: ₹278
+promo: -₹80
